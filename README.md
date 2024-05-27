@@ -20,7 +20,7 @@ Installation Guide:
    * Inside your local Git reposity, add the files from your file downloads.
    * Push these changes to Github or Gitlab.
 
-## User Intruction
+## User Instruction
 
 After you download all the files to your computer, open the file named customer_banking.py in VS Code. Run the file using Python. Once you click the run button, the code will prompt you with, "Enter your savings balance:". You will type any amount you want and hit Enter. Next, it will ask, "What is your savings interest rate?". You will input the interest rate and press Enter. Then, it will ask, "How many months?". You will type the number of months and hit Enter.
 
