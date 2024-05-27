@@ -15,7 +15,7 @@ Download the following files from my reposity:
 
 Installation Guide:
 
-   * Create a new reposity called customer_banking
+   * Create a new reposity called <code style='color:red'>customer_banking</code>
    * Clone the new reposity to your computer
    * Inside your local Git reposity, add the files from your file downloads.
    * Push these changes to Github or Gitlab.
