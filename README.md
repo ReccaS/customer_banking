@@ -7,16 +7,22 @@ This Customer Banking System allows users to calculate and track interest earned
 
 ## Installation
 Download the following files from my reposity:
-    * Account.py
-    * cd_account.py
-    * savings_account.py
-    * customer_banking.py
+
+   * Account.py
+   * cd_account.py
+   * savings_account.py
+   * customer_banking.py
 
 Installation Guide:
 
-    * Create a new reposity called customer_banking
-    * Create a new reposity called customer_banking
-    * Clone the new reposity to your computer
-    * Inside your local Git reposity, add the files from your file downloads.
-    * Push these changes to Github or Gitlab.
-    
+   * Create a new reposity called customer_banking
+   * Clone the new reposity to your computer
+   * Inside your local Git reposity, add the files from your file downloads.
+   * Push these changes to Github or Gitlab.
+
+## User Intruction
+
+After you download all the files to your computer, open the file named customer_banking.py in VS Code. Run the file using Python. Once you click the run button, the code will prompt you with, "Enter your savings balance:". You will type any amount you want and hit Enter. Next, it will ask, "What is your savings interest rate?". You will input the interest rate and press Enter. Then, it will ask, "How many months?". You will type the number of months and hit Enter.
+
+After providing answers to these three questions — your savings balance, interest rate, and number of months — the code will calculate and print your interest earned and new savings balance. The code will then perform the same process for your CD account.
+
