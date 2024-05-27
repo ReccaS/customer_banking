@@ -26,3 +26,6 @@ After you download all the files to your computer, open the file named customer_
 
 After providing answers to these three questions — your savings balance, interest rate, and number of months — the code will calculate and print your interest earned and new savings balance. The code will then perform the same process for your CD account.
 
+## References
+
+Python code file from edX Boot Camps LLC, and is intended for educational purposes only.
